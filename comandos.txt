@@ -1,0 +1,2 @@
+npx react-native init cursornpatagonian --template react-native-template-typescript
+npx react-native run-android
